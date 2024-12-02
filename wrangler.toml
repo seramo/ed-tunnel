@@ -6,7 +6,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
   { pattern = "free.aminoor09.my.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.beat.rmtq.fun", custom_domain = true },
+  { pattern = "ava.game.naver.com.free.aminoor09.my.id", custom_domain = true },
   { pattern = "graph.instagram.com.free.aminoor09.my.id", custom_domain = true },
   { pattern = "quiz.int.vidio.com.free.aminoor09.my.id", custom_domain = true },
   { pattern = "investors.spotify.com.free.aminoor09.my.id", custom_domain = true },

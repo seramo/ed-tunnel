@@ -1,17 +1,14 @@
-name = "server sg1" # todo
+name = "puco" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg1.ninjawasir.my.id"
+pattern = "puco.ninjawasir.my.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sg1.ninjawasir.my.id"
-custom_domain = true
-[[routes]]
-pattern = "zaintest.vuclip.com.sg1.ninjawasir.my.id"
+pattern = "zaintest.vuclip.com.puco.ninjawasir.my.id"
 custom_domain = true
 
 [vars]
@@ -21,4 +18,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "d3c44755-6589-4b39-a302-6afc0fab10df"
+UUID = "c73fd305-92ce-4689-bc7f-f7b571ed8d86"

@@ -1,0 +1,84 @@
+35.219.15.90,443,ID,Google LLC
+35.219.50.99,443,ID,Google LLC
+103.168.146.169,20132,ID,Pt Herza Digital Indonesia
+103.168.146.160,20132,ID,Tes Inactive Server
+172.232.239.134,587,ID,Akamai Technologies  Inc
+172.232.239.175,587,ID,Akamai Technologies  Inc
+103.133.223.52,2096,ID,Pt Cloud Teknologi Nusantara
+172.232.239.151,587,ID,Akamai Technologies  Inc
+172.232.239.249,587,ID,Akamai Technologies  Inc
+103.133.223.50,2096,ID,Pt Cloud Teknologi Nusantara
+103.133.223.51,2096,ID,Pt Cloud Teknologi Nusantara
+103.186.1.209,2053,ID,Pt Cloud Hosting Indonesia
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+103.168.46.169,20132,ID,Tes Inactive Server
+103.168.14.169,20132,ID,Tes Inactive Server
+172.232.239.147,587,ID,Akamai Technologies  Inc
+43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
+51.79.158.126,443,SG,OVH SAS
+139.180.144.170,666,SG,The Constant Company  LLC
+54.251.167.101,443,SG,Amazon com  Inc
+146.235.18.248,45137,SG,Oracle Corporation
+45.77.171.102,3128,SG,The Constant Company  LLC
+138.2.89.238,43254,SG,Oracle Corporation
+47.74.254.191,8900,SG,Alibaba us Technology Co   Ltd
+103.18.146.169,20132,ID,Tes Inactive Server
+43.156.16.213,31528,SG,Shenzhen Tencent Computer Systems Company Limited
+129.150.58.86,57621,SG,Oracle Corporation
+103.180.161.10,587,SG,Hong Kong Megalayer Technology Co  limited
+139.180.136.178,29661,SG,The Constant Company  LLC
+54.169.229.188,443,SG,Amazon com  Inc
+168.138.166.213,10500,SG,Oracle Corporation
+139.180.136.178,29806,SG,The Constant Company  LLC
+213.35.108.135,12596,SG,Oracle Corporation
+168.138.183.48,9090,SG,Oracle Corporation
+188.166.255.195,8443,SG,Digitalocean  LLC
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE  LTD
+8.219.50.5,29220,SG,Alibaba us Technology Co   Ltd
+188.166.255.195,443,SG,Digitalocean  LLC
+161.117.249.114,2025,SG,Alibaba us Technology Co   Ltd
+8.222.243.73,26385,SG,Alibaba us Technology Co   Ltd
+47.236.173.166,587,SG,Alibaba us Technology Co   Ltd
+94.237.75.31,62174,SG,Upcloud LTD
+178.128.80.43,443,SG,Digitalocean  LLC
+168.138.160.54,19081,SG,Oracle Corporation
+8.222.143.82,24245,SG,Alibaba us Technology Co   Ltd
+47.236.246.163,14108,SG,Alibaba us Technology Co   Ltd
+158.178.225.124,37461,SG,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
+158.178.225.124,12934,SG,Oracle Corporation
+129.150.50.63,443,SG,Oracle Corporation
+158.178.225.124,37497,SG,Oracle Corporation
+15.235.162.49,443,SG,OVH SAS
+103.180.161.69,587,SG,Hong Kong Megalayer Technology Co  limited
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE  LTD
+139.180.131.125,10005,SG,The Constant Company  LLC
+167.71.194.185,8443,SG,Digitalocean  LLC
+47.245.95.160,1443,SG,Alibaba us Technology Co   Ltd
+103.180.161.123,587,SG,Hong Kong Megalayer Technology Co  limited
+47.236.22.194,52324,SG,Alibaba us Technology Co   Ltd
+139.162.33.248,587,SG,Akamai Technologies  Inc
+129.150.49.58,18650,SG,Oracle Corporation
+138.2.109.23,587,SG,Oracle Corporation
+47.236.119.190,51342,SG,Alibaba us Technology Co   Ltd
+138.2.95.61,1111,SG,Oracle Corporation
+47.236.25.107,27903,SG,Alibaba us Technology Co   Ltd
+8.219.237.57,31523,SG,Alibaba us Technology Co   Ltd
+139.180.215.77,57878,SG,The Constant Company  LLC
+8.219.197.113,45714,SG,Alibaba us Technology Co   Ltd
+8.222.129.175,58808,SG,Alibaba us Technology Co   Ltd
+213.35.107.73,443,SG,Oracle Corporation
+139.162.48.174,10000,SG,Akamai Technologies  Inc
+192.53.113.156,587,SG,Akamai Technologies  Inc
+146.190.111.165,443,SG,Digitalocean  LLC
+45.77.36.40,443,SG,The Constant Company  LLC
+143.198.213.197,443,SG,Digitalocean  LLC
+47.236.157.249,587,SG,Alibaba us Technology Co   Ltd
+119.81.201.154,9089,SG,Softlayer Technologies Inc
+51.79.254.182,443,SG,OVH SAS
+119.81.201.154,9089,SG,Softlayer Technologies Inc
+143.42.68.97,17055,SG,Akamai Technologies  Inc
+103.40.11.26,587,SG,Hong Kong Megalayer Technology Co  limited
+8.219.163.164,36261,SG,Alibaba us Technology Co   Ltd
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+158.178.225.124,53618,SG,Oracle Corporation

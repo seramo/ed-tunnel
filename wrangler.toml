@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "sg.danz-oct.my.id"
 custom_domain = true
 [[routes]]
-pattern = "104.17.3.81.sg.danz-oct.my.id"
+pattern = "support.zoom.us.sg.danz-oct.my.id"
 custom_domain = true
 
 

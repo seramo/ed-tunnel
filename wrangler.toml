@@ -1,9 +1,20 @@
-name = "cf-worker-ws-dev" # todo
+name = "vless1" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
+routes = [
+  { pattern = "vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "ava.game.naver.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "graph.instagram.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "investors.spotify.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "cache.netflix.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "blog.webex.com.vless1.laaasukaaa.my.id", custom_domain = true },
+  { pattern = "support.zoom.us.vless1.laaasukaaa.my.id", custom_domain = true },
+]
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -12,4 +23,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea,89b64978-6244-4bf3-bf64-67ade4ce5c8f,d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "77956657-7bd9-4fec-bc84-090fb6e240f8"

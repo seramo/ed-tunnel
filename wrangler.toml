@@ -1,4 +1,4 @@
-name = "idgcp-xl25k" # todo
+name = "idgcloud-xl25k" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,15 +6,15 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
 routes = [
-  { pattern = "qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "ava.game.naver.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "graph.instagram.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "investors.spotify.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "zaintest.vuclip.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "cache.netflix.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "blog.webex.com.qyubisanz14.us.kg", custom_domain = true },
-  { pattern = "support.zoom.us.qyubisanz14.us.kg", custom_domain = true },
+  { pattern = "vpnyubi.us.kg", custom_domain = true },
+  { pattern = "ava.game.naver.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "graph.instagram.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "investors.spotify.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "cache.netflix.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "blog.webex.com.vpnyubi.us.kg", custom_domain = true },
+  { pattern = "support.zoom.us.vpnyubi.us.kg", custom_domain = true },
 ]
 
 [vars]
@@ -24,4 +24,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "8f8d3510-5605-43ee-b2d4-736a0040173a"
+UUID = "12e30273-bd88-43e1-b347-f5743684ab7a"

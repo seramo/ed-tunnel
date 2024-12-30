@@ -1,21 +1,24 @@
-name = "idgcloud-xl25k" # todo
+name = "idgc-xl25k" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-routes = [
-  { pattern = "vpnyubi.us.kg", custom_domain = true },
-  { pattern = "ava.game.naver.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "graph.instagram.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "quiz.int.vidio.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "investors.spotify.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "zaintest.vuclip.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "cache.netflix.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "blog.webex.com.vpnyubi.us.kg", custom_domain = true },
-  { pattern = "support.zoom.us.vpnyubi.us.kg", custom_domain = true },
-]
+pattern = "idgc.vpnyubi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "updates.netflix.com.idgc.vpnyubi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "quiz.int.vidio.com.idgc.vpnyubi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "support.udemy.com.idgc.vpnyubi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "zaintest.vuclip.com.idgc.vpnyubi.us.kg"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -24,4 +27,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "12e30273-bd88-43e1-b347-f5743684ab7a"
+UUID = "5f561486-b647-4093-8543-3028f176244c"

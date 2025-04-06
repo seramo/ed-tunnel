@@ -3,7 +3,7 @@ name = "server-id1" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2025-04-04"
 [[routes]]
 pattern = "id1.mukelist.my.id"
 custom_domain = true
